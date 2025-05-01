@@ -1,8 +1,6 @@
 name: Demo CI
-
 on:
   workflow_dispatch:
-
 jobs:
   print-name:
     runs-on: ubuntu-latest
